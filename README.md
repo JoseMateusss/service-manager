@@ -49,6 +49,3 @@ Este é um mini sistema de gestão de ordens de serviços desenvolvido como part
 8. **Acesso à Aplicação:**
     - Acesse a aplicação através do URL fornecido pelo servidor local.
 
-## Notas
-
-Este projeto foi desenvolvido como parte de um teste prático para uma vaga de desenvolvedor web e possui funcionalidades limitadas. Fique à vontade para expandir e aprimorar conforme necessário para atender aos requisitos e escopo completos do sistema.
